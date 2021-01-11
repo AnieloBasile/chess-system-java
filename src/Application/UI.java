@@ -7,6 +7,8 @@ public class UI {
 	//imprime o tabuleiro
 	public static void printBoard(ChessPiece[][] pieces) {
 
+		System.out.println("                      ");
+		System.out.println("--  CHESS  MATCH   -- ");
 		System.out.println("_____________________ ");
 		System.out.println("  |                 | ");
 

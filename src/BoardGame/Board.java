@@ -37,4 +37,8 @@ public class Board {
 		return pieces[position.getRow()][position.getColumn()];
 	}
 
+	public static void main(String[] args) {
+		
+	}
+
 }
