@@ -38,7 +38,7 @@ public class UI {
 		else {
             System.out.print( piece );
         }
-	   	//imprime espoço para as peças não ficfarem grudadas
+	   	//imprime espoço para as peças não ficarem grudadas
         System.out.print(" ");
 	}
 
